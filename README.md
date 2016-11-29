@@ -18,6 +18,6 @@ This app uses The Movie Database [(TMDB)](https://www.themoviedb.org) API  to re
 
 
  
-
+# Sample Photo
 
 ![ps medium](https://cloud.githubusercontent.com/assets/22025520/20732537/e2196720-b697-11e6-8a72-0630ac95f867.png)
