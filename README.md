@@ -1,6 +1,6 @@
 # Movies-App
 
-This is a fully functional android app which I made from scratch for Developing Android course which i took with ![MAL](https://www.mobileapplaunchpad.com.eg) (Mobile Application Launchpad) which is a scholarship program between MCIT and Google to teach 2000 participants how to be a professional Android developers. 
+This is a fully functional android app which I made from scratch for Developing Android course which i took with  [MAL] (https://www.mobileapplaunchpad.com.eg) (Mobile Application Launchpad) which is a scholarship program between MCIT and Google to teach 2000 participants how to be a professional Android developers. 
  
 # Features
 With the app, you can:
@@ -14,7 +14,7 @@ With the app, you can:
 •	Read reviews
 
 # How to Work with the Source
-This app uses The Movie Database ![(TMDB)](https://www.themoviedb.org) API  to retrieve movies. You must provide your own API key in order to build the app. When you get it, just paste it to: app/build.gradle 
+This app uses The Movie Database [(TMDB)](https://www.themoviedb.org) API  to retrieve movies. You must provide your own API key in order to build the app. When you get it, just paste it to: app/build.gradle 
 
 
  
