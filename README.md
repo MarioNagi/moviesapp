@@ -1,17 +1,19 @@
 # Movies-App
 
-This is a fully functional android app which I made from scratch for Developing Android course which i took with  [MAL] (https://www.mobileapplaunchpad.com.eg) (Mobile Application Launchpad) which is a scholarship program between MCIT and Google to teach 2000 participants how to be a professional Android developers. 
+This is a fully functional android app which I made from scratch for Developing Android course which i took with  [MAL] (https://www.mobileapplaunchpad.com.eg) (Mobile Application Launchpad) which is a scholarship program between MCIT and Google to teach 2000 participants how to be a professional Android Developers. 
  
 # Features
 With the app, you can:
 
-•	Discover the most popular, the most rated or the highest rated movies
+•	Discover the most popular, the highest rated movies.
 
-•	Save favorite movies locally to view them even when offline
+•	Save favorite movies locally to view them when offline.
 
-•	Watch trailers
+•	Watch trailers.
 
-•	Read reviews
+•	Read reviews.
+
+• Preview it on both Mobile and Tablet.
 
 # How to Work with the Source
 This app uses The Movie Database [(TMDB)](https://www.themoviedb.org) API  to retrieve movies. You must provide your own API key in order to build the app. When you get it, just paste it to: app/build.gradle 
